@@ -22,4 +22,6 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+The Python function (is that the right term?) did well in its extraction of people, places, and organizations mentioned in the article. For the most part, it pulled each in order of appearance and correctly summarized roles or locations of organizations.
+
+For my news organization, I'd like to return to the unstructured data assignment and use this tool to extract neighborhoods, article publication date, and find a way to determine the article type (crime, business, etc) to evaluate the amount and type of coverage being published by BCC. 
